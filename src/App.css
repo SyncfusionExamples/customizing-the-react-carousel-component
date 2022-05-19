@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  margin: 2%;
+}
+
+@import url("https://cdn.syncfusion.com/ej2/20.1.48/bootstrap5.css");
+
+.App .carousel-sample{
+  margin: 0 auto 2em;
+  max-width: 500px;
+  height: 350px;
+}
+
+.default-carousel .e-carousel-items .e-carousel-item .img-container {
+  height: 300px;
+  margin: 0;
+}
+
+.default-carousel .e-carousel-indicators .e-indicator-bars .e-indicator-bar .indicator {
+  background-color: #ECECEC;
+  border-radius: 0.25rem;
+  cursor: pointer;
+  height: 35px;
+  margin: 0.5rem;
+  width: 50px;
+}
+
+.default-carousel .e-carousel-indicators .e-indicator-bars .e-indicator-bar.e-active .indicator {
+  background-color: #3C78EF;
+}
