@@ -1,6 +1,5 @@
 # Customizing the React Carousel Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to customize the Syncfusion React Carousel component, including navigation controls and animation behavior.
 
 A quick‑start project that helps you customize the Syncfusion React Carousel component navigator buttons, play button, and indicators. This project contains example code snippets to change slide interval timing, disable slide auto play, control infinite slide transition looping, and customize animation effects.
